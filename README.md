@@ -14,6 +14,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 And the dataset can be downloaded from: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The analysis script[](run_analysis.R)  assumes that the dataset is previously downloaded and unzipped into the working directory
+The [analysis script](run_analysis.R)  assumes that the dataset is previously downloaded and unzipped into the working directory
 
-Further description can be read in the CodeBook[](CodeBook.md) 
+Further description can be read in the [CodeBook](CodeBook.md) 
